@@ -17,6 +17,6 @@ Don't Ask For How to Run These Codes = Ban... In Our Support Groups.... be Caref
 
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Awesome-RJ/CutiepiiRobot">
+        <a href="https://heroku.com/deploy?template=https://github.com/log_afk_xD/Powered">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
